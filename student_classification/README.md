@@ -43,6 +43,6 @@ Apos a analise exploratoria e o pré processamento foi dado inicio a este notebo
 
 ## Criar modelo RandomForest
 
-as in the decision tree models it was not possible to obtain satisfactory values, new tests were carried out with sklearn's ensemble methods in order to improve the model's performance and with the random forest, since the first model the algorithm showed a much better performance where in the last trained model obtained a high degree of accuracy both in training and in testing and even with cross validation
+as in the decision tree models it was not possible to obtain satisfactory values, new tests were carried out with sklearn's ensemble methods in order to improve the model's performance and with the random forest, since the first model the algorithm showed a much better performance 
 
-Como nos modelos de árvore de decisão nao foi possivel conseguir valores satisfatorios, foi feito novos testes com metodos ensemble do sklearn com objetivo de melhorar o desenpenho do modelo e com o random forest,  desde o primeiro modelo o algoritmo mostrou um desempenho muito melhor onde no último modelo treinado obtive alto grau de precisão tanto em treino como en teste e ate mesmo com validação cruzada
+Como nos modelos de árvore de decisão nao foi possivel conseguir valores satisfatorios, foi feito novos testes com metodos ensemble do sklearn com objetivo de melhorar o desenpenho do modelo e com o random forest,  desde o primeiro modelo o algoritmo mostrou um desempenho muito melhor.
