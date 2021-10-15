@@ -9,7 +9,7 @@ Este trabalho consiste em classificar alunos em cinco categorias. Maiores inform
 
 # Exploratory_Analysys
 
-## Análise Exploraoria
+## Análise Exploratoria
 
 This notebook contains data dictionary and an analysis of how the data is divided, if there are missing values, balancing, graphs with data distribution, correlation analysis.
 
